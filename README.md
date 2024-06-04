@@ -1,6 +1,6 @@
 # Bank Customer Churn Analysis
 
-This project involves analyzing and predicting customer churn for a bank using a dataset of 10,000 customer records. The analysis includes data preprocessing, feature engineering, and the implementation of three machine learning models: Decision Tree, Logistic Regression, and Random Forest.
+This project involves analyzing and predicting customer churn for a bank using a dataset of 10,000 customer records. The analysis includes data preprocessing, feature engineering, and the implementation of three machine learning models: Decision Tree and Random Forest.
 
 ## Overview
 
