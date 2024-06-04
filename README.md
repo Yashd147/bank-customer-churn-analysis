@@ -18,7 +18,7 @@ This project involves analyzing and predicting customer churn for a bank using a
 ## Models Used
 
 - Random Forest
-- Decision Tree
+- Logistic Regression
 
 ## Performance Metrics
 
